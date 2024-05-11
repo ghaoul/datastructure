@@ -10,4 +10,4 @@ for ( i = 0; i <= tab.length - 1; i++){
     }
 }
  console.log(tabpaire);
-//Recherche de chiffre impair
+
